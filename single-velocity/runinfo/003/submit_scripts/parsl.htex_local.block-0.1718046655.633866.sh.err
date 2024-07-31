@@ -1,0 +1,1410 @@
+Process HTEX-Worker-3:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-4:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-0:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-1:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-5:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-2:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-6:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-7:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-9:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-8:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-10:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-12:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-11:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-13:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-14:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-16:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-15:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-19:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-18:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-17:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-20:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-21:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-22:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-23:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-24:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-25:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-26:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-28:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-29:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-27:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-30:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-31:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-32:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-33:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-34:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-35:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-36:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-37:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-39:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-38:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-41:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-40:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-42:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-43:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-44:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-46:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-45:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-47:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-48:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-50:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-49:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-51:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-52:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-53:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-54:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-56:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-55:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-58:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-57:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-59:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-60:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-61:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-62:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-63:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-2:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-0:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-1:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-3:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-5:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-4:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-6:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-8:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-7:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-10:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-9:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-11:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-12:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-14:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-13:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-15:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-16:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-17:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-18:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-19:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-21:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-20:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-22:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-23:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-24:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-26:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-25:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-28:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-27:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-30:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-29:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-31:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-32:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Process HTEX-Worker-33:
+Process HTEX-Worker-34:
+Process HTEX-Worker-35:
+Process HTEX-Worker-37:
+Process HTEX-Worker-36:
+Process HTEX-Worker-38:
+Process HTEX-Worker-39:
+Process HTEX-Worker-40:
+Process HTEX-Worker-41:
+Process HTEX-Worker-42:
+Process HTEX-Worker-44:
+Process HTEX-Worker-43:
+Process HTEX-Worker-46:
+Process HTEX-Worker-45:
+Process HTEX-Worker-48:
+Process HTEX-Worker-47:
+Process HTEX-Worker-49:
+Process HTEX-Worker-50:
+Process HTEX-Worker-51:
+Process HTEX-Worker-52:
+Process HTEX-Worker-53:
+Process HTEX-Worker-55:
+Process HTEX-Worker-54:
+Process HTEX-Worker-57:
+Process HTEX-Worker-56:
+Process HTEX-Worker-58:
+Process HTEX-Worker-59:
+Process HTEX-Worker-60:
+Process HTEX-Worker-61:
+Process HTEX-Worker-62:
+Process HTEX-Worker-63:
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+Traceback (most recent call last):
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/local/python/3.9.16/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/lib/python3.9/site-packages/parsl/process_loggers.py", line 26, in wrapped
+    r = func(*args, **kwargs)
+  File "/scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/process_worker_pool.py", line 685, in worker
+    assert cores_per_worker > 0, "Affinity does not work if there are more workers than cores"
+AssertionError: Affinity does not work if there are more workers than cores
+/usr/local/python/3.9.16/lib/python3.9/multiprocessing/resource_tracker.py:216: UserWarning: resource_tracker: There appear to be 7 leaked semaphore objects to clean up at shutdown
+  warnings.warn('resource_tracker: There appear to be %d '
