@@ -2,9 +2,9 @@
 
 A study of how to compute electronic stopping power quickly using a combination of machine learning and Time-Dependent Density Functional Theory (TD-DFT).
 
-See our [paper for more details](https://arxiv.org/abs/2311.00787v1). 
+See our [paper for more details](https://arxiv.org/abs/2001.10162). 
 
-A version of this project with the datasets and outputs used when writing our paper is [on the Materials Data Facility](https://acdc.alcf.anl.gov/mdf/detail/rtdftplusai_v1.1/)
+A version of this project with the datasets and outputs used when writing our paper is [on the Materials Data Facility](https://www.materialsdatafacility.org/detail/lee_si_si_e_dyn_tddft_v1.1)
 
 ## Installation
 
@@ -21,10 +21,10 @@ launch Jupyter from within this environment for the notebooks to function.
 
 ## Organization
 
-This project is broken in to several subfolders.
+This project is broken into several subfolders.
 
 `datasets` contains all of the TD-DFT data associated with this project. 
-It is not tracked by git, so get the data from [our](https://acdc.alcf.anl.gov/mdf/detail/schleife_accurate_atomistic_stopping_v1.1/) [two](https://acdc.alcf.anl.gov/mdf/detail/schleife2018_v1.1/) 
+It is not tracked by git, so get the data from [our](https://www.materialsdatafacility.org/detail/lee_si_si_e_dyn_tddft_v1.1) 
 datasets on the Materials Data Facility.
 
 `stopping_power_ml` is a Python module that contains utility operations for this project. 
