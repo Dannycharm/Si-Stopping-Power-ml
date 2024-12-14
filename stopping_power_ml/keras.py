@@ -1,7 +1,8 @@
 import keras
 
+
 def build_fn(input_size=10, dense_layers=(10,10), activation='linear', use_linear_block=True,
-            optimizer_options=dict(loss='mean_absolute_error', optimizer='rmsprop', metrics=['mean_absolute_error'])):
+            optimizer_options=dict(loss='mean_absolute_error', optimizer='rmsprop', metrics=['mean_absolute_error']), regularizer=keras.regularizers.L2(0.01), use_regularizer=False):
     """Creates a Keras NN model
     
     Args:
@@ -19,7 +20,11 @@ def build_fn(input_size=10, dense_layers=(10,10), activation='linear', use_linea
     # Make the dense layer
     dense_layer = inputs
     for layer_size in dense_layers:
-        dense_layer = keras.layers.Dense(layer_size, activation=activation)(dense_layer)
+        if use_regularizer == False:
+            dense_layer = keras.layers.Dense(layer_size, activation=activation)(dense_layer)
+        else:
+            dense_layer = keras.layers.Dense(layer_size, activation=activation, kernel_regularizer=regularizer)(dense_layer)
+    
     
     if use_linear_block:
         # Add the LR layer

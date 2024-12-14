@@ -11,3 +11,4 @@
 
 . /scratch/users/pdanie20/PD-stopping-power-ml/venv/bin/activate
 time jupyter nbconvert --execute --inplace --ExecutePreprocessor.timeout=-1 ./2_compute-representation.ipynb
+#time python load.py
