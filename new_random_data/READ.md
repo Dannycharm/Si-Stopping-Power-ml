@@ -1,0 +1,1 @@
+This contains the 0.5 v data that Yifan sent. We needed this so the model would make good predictions at low velocities
